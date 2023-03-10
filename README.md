@@ -17,7 +17,6 @@ Para instalar NoD, simplemente descarga el archivo de instalación desde nuestro
 Una vez instalado, puedes abrir NoD y comenzar a realizar tus cálculos. El programa cubre algunos cálculos generales en un negocio normal, como por ejemplo:
 - Cálculo de punto de equilibrio.
 - Cálculo de ganancia neta.
-- Cálculo de impuestos.
 - Validación de cédula.
 
 ## Contribución
