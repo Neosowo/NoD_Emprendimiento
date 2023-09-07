@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace NoD
 {
     public static class Theme
+        //uwu
     {
         public static void ApplyDarkTheme(Control control)
         {
