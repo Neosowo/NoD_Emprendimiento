@@ -1,5 +1,5 @@
-# NoD
-NoD es un programa sencillo que te ayudará a hacer cálculos en tu negocio de manera fácil y rápida.
+# NoD_Emprendimiento
+NoD_Emprendimiento es una versión de NoD que se centra en los calculos en tu negocio de manera fácil y rápida.
 
 ## Descripción
 
