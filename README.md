@@ -19,11 +19,5 @@ Una vez instalado, puedes abrir NoD y comenzar a realizar tus cálculos. El prog
 - Cálculo de ganancia neta.
 - Validación de cédula.
 
-## Contribución
-Me encantaría recibir contribuciones y sugerencias para mejorar NoD. Si tienes alguna idea o quieres reportar algún error, puedes crear un "issue" en nuestro repositorio de GitHub.
-
-## Créditos
-NoD fue desarrollado por Erick como parte de un proyecto de práctica. 
-
 ## Licencia
 NoD se distribuye bajo la Licencia Apache 2.0. Esta licencia permite a los usuarios modificar y utilizar el programa de forma gratuita, pero no les permite venderlo sin obtener una licencia adicional. 
